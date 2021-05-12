@@ -1,7 +1,7 @@
 const container = document.getElementById('container');
 const colors = ['#e74c3c', '#8e44ad', '#3498db', '#e67e22', '#2ecc71'];
 const colors2 = ['Gold', 'Orchid', 'LightSkyBlue', '#f56991', 'lightgreen'];
-const SQUARES = 1000;
+const SQUARES = 491;
 
 // Generates div elemnts based on the square count
 for (let i = 0; i < SQUARES; i++) {
